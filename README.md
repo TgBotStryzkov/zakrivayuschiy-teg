@@ -33,7 +33,7 @@ npm run dev
 
 ## Автор
 
-- Github - [Mike Beloborodov](https://github.com/TgBotStryzkov)
+- Github - [TgBotStryzkov](https://github.com/TgBotStryzkov)
 
 ## Благодарность
 
